@@ -47,8 +47,8 @@ HostConnect is a full-featured, production-ready accommodation listing platform 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hostconnect.git
-   cd hostconnect
+   git clone https://github.com/FurtulaIgor/HostConnect.git
+   cd HostConnect
    ```
 
 2. **Install dependencies**
@@ -303,7 +303,7 @@ See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) for detailed instructions.
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](./CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](./docs/CONTRIBUTING.md) for details.
 
 ### **Development Workflow**
 1. Fork the repository
@@ -446,12 +446,12 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 🎯 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/hostconnect)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/hostconnect)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/hostconnect)
-![GitHub license](https://img.shields.io/github/license/yourusername/hostconnect)
+![GitHub stars](https://img.shields.io/github/stars/FurtulaIgor/HostConnect)
+![GitHub forks](https://img.shields.io/github/forks/FurtulaIgor/HostConnect)
+![GitHub issues](https://img.shields.io/github/issues/FurtulaIgor/HostConnect)
+![GitHub license](https://img.shields.io/github/license/FurtulaIgor/HostConnect)
 
-**Built with ❤️ by the HostConnect Team**
+**Built with ❤️ by Igor Furtula**
 
 ---
 

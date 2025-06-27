@@ -13,7 +13,7 @@ import Conversation from './pages/Conversation'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/HostConnect">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
